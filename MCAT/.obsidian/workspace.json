@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "4f0b877e166ba875",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb8b969c4cbb2298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0feaa71127bed55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Faraday's Law.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Faraday's Law"
+            }
+          },
+          {
+            "id": "1e6eefaf767dcf6b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aec162e85f7a9f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3cfa58ef4b46b24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a6aa3f22c54e82d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "45ab627da3cfe248",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "light",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0fb9f38cdb5766a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5dd7d1f06ac9b131",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ef53c07299debe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10d5dc68913de64c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Rough Notes/hcMET channels.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for hcMET channels"
+            }
+          },
+          {
+            "id": "8aa1f0999ee52305",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Rough Notes/hcMET channels.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hcMET channels"
+            }
+          },
+          {
+            "id": "66b69b3d6eadcbae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0627fa8a1479585",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Rough Notes/hcMET channels.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hcMET channels"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e6eefaf767dcf6b",
+  "lastOpenFiles": [
+    "1 - Rough Notes/Vesicles.md",
+    "3 - Tags/Biological bases of behavior.md",
+    "3 - Tags/Biogenic amines.md",
+    "3 - Tags/Behaviorism.md",
+    "3 - Tags/Autonomic Nervous System.md",
+    "3 - Tags/Attention.md",
+    "3 - Tags/Associative learning.md",
+    "2 - Source Material/another neuron.png",
+    "2 - Source Material/Adrenal Gland.png",
+    "1 - Rough Notes/Tectorial membrane.md",
+    "1 - Rough Notes/Stress Appraisal Theory of Lazarus.md",
+    "1 - Rough Notes/Somatosensation.md",
+    "1 - Rough Notes/Somatic symptom disorder.md",
+    "1 - Rough Notes/Glomerulus.md",
+    "1 - Rough Notes/General Anxiety Disorder.md",
+    "1 - Rough Notes/Fundamental attribution error.md",
+    "1 - Rough Notes/Factitious disorder.md",
+    "1 - Rough Notes/Enteric Nervous System.md",
+    "1 - Rough Notes/Elaboration likelihood model.md",
+    "1 - Rough Notes/Cultural display rule.md",
+    "1 - Rough Notes/Components of emotion.md",
+    "1 - Rough Notes/Classical conditioning.md",
+    "1 - Rough Notes/Auditory pathway.md",
+    "6 - Main Notes/Vasopressin, ADH.md",
+    "6 - Main Notes/Untitled 3.md",
+    "6 - Main Notes/Anterior Pituitary.md",
+    "6 - Main Notes/Hypothalamus.md",
+    "1 - Rough Notes/Horner's Syndrome.md",
+    "2 - Source Material/horners-syndrome.png",
+    "Pasted image 20250417085252.png",
+    "Pasted image 20250417085210.png",
+    "2 - Source Material/osteoblast-osteoclast.png",
+    "2 - Source Material/edinger-westfall nucleus.png",
+    "2 - Source Material/organ of corti.png",
+    "2 - Source Material/alleles.png",
+    "Pasted image 20250305205515.png",
+    "6 - Main Notes",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes",
+    "5 - Templates",
+    "4 - Indexes"
+  ]
+}

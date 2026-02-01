@@ -1,0 +1,2 @@
+[[Cerebral cortex]]
+[[Subcortical Structures]]

@@ -1,0 +1,1 @@
+Cofactors are any non-protein molecule that an enzyme needs to function.

@@ -1,0 +1,5 @@
+[[Taste]]
+[[Sight]]
+[[Smell]]
+[[Touch]]
+[[Hearing]]
